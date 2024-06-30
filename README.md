@@ -88,7 +88,7 @@ Keep it simple..
 
 <h3>Author or Acknowledgments</h3>
 <ul>
-  <li>Peter Rogendo</li>
+  <li>Patricia Mae Quitoriano</li>
 
 </ul>
 
