@@ -67,7 +67,6 @@ streamlit run app.py
 
 ```
 
-![Screenshot 2023-04-09 210137](https://user-images.githubusercontent.com/62094358/230796373-a9a891c3-d416-45af-83f6-1abd7ffc1a37.png)
 
 <h3> List of features </h3>
 
